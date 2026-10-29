@@ -1,0 +1,10 @@
+{
+  "name": "pi-hub-ai-workspace",
+  "version": "1.1.0",
+  "private": true,
+  "description": "PI Hub prototype with Gemini AI chat, persistent team chats, file storage and workspace search",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "dotenv": "^16.4.7", "express": "^4.21.2", "multer": "^1.4.5-lts.2" }
+}

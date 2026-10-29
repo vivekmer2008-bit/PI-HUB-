@@ -1,0 +1,10 @@
+{
+  "name": "PI Hub AI Workspace — Project & Innovation Hub",
+  "short_name": "PI Hub AI Workspace",
+  "description": "A mobile workspace for robotics projects and lab collaboration.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
